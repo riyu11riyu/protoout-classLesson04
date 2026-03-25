@@ -98,7 +98,7 @@ LLMに**専門知識やルールを事前に覚え込ませる**方法。
 
 ---
 
-© 2026 ProtoOut Studio  
 <img src="https://i.gyazo.com/02a72ab01c1a57356e459676c4fb4d6d.png" width="100px" />  
 
+<span style="font-size: small; color: gray;">© 2026 ProtoOut Studio</span>
 
