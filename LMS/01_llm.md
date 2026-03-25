@@ -99,7 +99,4 @@ LLMに**専門知識やルールを事前に覚え込ませる**方法。
 ---
 
 <img src="https://i.gyazo.com/02a72ab01c1a57356e459676c4fb4d6d.png" width="70px" />  
-© 2026 dotstudio inc.
-
-<img src="https://i.gyazo.com/02a72ab01c1a57356e459676c4fb4d6d.png" width="70px" />  
 © 2026 dotstudio inc All Rights Reserved.
